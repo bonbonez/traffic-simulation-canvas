@@ -1,0 +1,14 @@
+html,
+body {
+  font-size: 0;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+#app-canvas {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
