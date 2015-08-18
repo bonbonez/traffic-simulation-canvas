@@ -26,7 +26,7 @@ base class. the parent for all classes in this project
 - `./scripts/core/pubsub.js`
 publisher/subscriber. extends from base class
 - `./scripts/core/canvas.js`
-simple wrap around canvas. there is a lot of work with canvases inside the app, this class simplifies this work
+simple wrap for canvas. there is a lot of work with canvases inside the app, this class simplifies this work
 - `./scripts/core/drawable.js`
 wrap for previously described class. provides a tiny amount of sugar for all canvas-based classes (for example, it knows how to render "nested" canvases)
 - `./scripts/core/debouncer.js`
