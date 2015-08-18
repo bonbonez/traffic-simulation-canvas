@@ -46,7 +46,7 @@ class that draws particles. there are two instances of Traffic class in the app.
 - `./scripts/app/traffic/particle.js`
 class that creates traffic particle with some unique properties
 - `./scripts/app/state-loop.js`
-class that provides methods for creating a sequence of actions (from red to green, grom green to orage, etc.). used for traffic logics management.
+class that provides methods for creating a sequence of actions (from red to green, grom green to orange, etc.). used for traffic logics management.
 - `./scripts/app/countdown.js`
 draws countdown in top left corner of the screen
 - `./scripts/app/app-canvas.js`
