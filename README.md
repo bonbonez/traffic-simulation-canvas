@@ -30,7 +30,7 @@ simple wrap for canvas. there is a lot of work with canvases inside the app, thi
 - `./scripts/core/drawable.js`
 wrap for previously described class. provides a tiny amount of sugar for all canvas-based classes (for example, it knows how to render "nested" canvases)
 - `./scripts/core/debouncer.js`
-util for generating events every N milliseconds
+util for generating events every N milliseconds, with start/stop functionality
 
 ##### App scripts
 - `./scripts/app/constants.js`
