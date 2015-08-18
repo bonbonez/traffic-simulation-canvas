@@ -14,7 +14,7 @@ There is a plenty of files in `index.html`. Lets clarify, what they are used for
 
 ##### Vendor scripts
 - `./scripts/vendor/lodash.min.js`
-provides `extend` method.
+provides `extend` method (for creating mixins)
 - `./scripts/vendor/ymodules.js`
 module system
 
